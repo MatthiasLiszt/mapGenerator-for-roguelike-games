@@ -6,6 +6,7 @@ to find out how it works, I just like to present the idea behind ...
 
 There are currently then different tiles 
 
+<pre>
  mType[0]="xxxxxxxxxxxxxxxx"; // code 0 , all wall 
  mType[1]="xxxx........xxxx"; // code 1 , large room 
  mType[2]="xxxx......xxxxxx"; // code 2 , medium sized room 
@@ -17,6 +18,7 @@ There are currently then different tiles
  mType[8]="........xxxxxxxx"; // code 8 , small room left join 
  mType[9]="................"; // code 9 , walk through
 
+</pre>
 ...
 
 There are four random values and according to the upper , the left neighbor and the right
